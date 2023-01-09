@@ -4,6 +4,6 @@
 # MAC
 .DS_Store
 
-# Drupl settin filé
+# Drupal setting files
 # Ignore local settings files information.
 /web/sites/*/settings.local.php
