@@ -1,2 +1,5 @@
 # PHP storm config
 .idea
+
+# MAC
+.DS_Store
